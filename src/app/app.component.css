@@ -1,0 +1,8 @@
+.principal {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  padding: 0;
+  background-image: linear-gradient(rgba(89, 55, 55, 0.7), rgba(145, 139, 158, 0.7));
+}
+
